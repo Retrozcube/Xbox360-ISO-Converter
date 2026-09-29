@@ -1,4 +1,6 @@
-<img width="507" height="453" alt="Screenshot 2026-09-28 172051" src="https://github.com/user-attachments/assets/8a354731-907d-4f22-9ac8-4ed98a789e5a" />
+<img width="140" height="68" alt="icon" src="https://github.com/user-attachments/assets/4b608664-8d7b-479c-9694-2713c9b31f28" />
+
+<img width="959" height="470" alt="application" src="https://github.com/user-attachments/assets/fc4e5946-83b3-4a07-8e4d-cb3326508ce1" />
 
 
 # Xbox 360 ISO to .XEX Converter
