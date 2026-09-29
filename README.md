@@ -1,3 +1,4 @@
+<img width="507" height="453" alt="Screenshot 2026-09-28 172051" src="https://github.com/user-attachments/assets/8a354731-907d-4f22-9ac8-4ed98a789e5a" />
 # Xbox 360 ISO to .XEX Converter
 
 A standalone Windows desktop utility designed to extract Xbox 360 game disc images (`.iso`) directly into loose `.xex` folder structures ready for RGH/JTAG consoles and PC emulation via Xenia.
